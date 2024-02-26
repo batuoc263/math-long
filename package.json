@@ -1,0 +1,11 @@
+{
+  "name": "math-long",
+  "version": "1.0.0",
+  "description": "A Long class for representing a 64-bit two's-complement integer value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "author": "batuoc263",
+  "license": "ISC"
+}

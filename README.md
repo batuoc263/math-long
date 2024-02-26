@@ -11,7 +11,7 @@ Example: 264-1 is 18446744073709551615 but in JavaScript it evaluates to 1844674
 
 Furthermore, bitwise operators in JavaScript "deal only with integers in the range −231 through 231−1, inclusive, or in the range 0 through 232−1, inclusive. These operators accept any value of the Number type but first convert each such value to one of 232 integer values."
 
-In some use cases, however, it is required to be able to reliably work with and perform bitwise operations on the full 64 bits. This is where long.js comes into play.
+In some use cases, however, it is required to be able to reliably work with and perform bitwise operations on the full 64 bits. This is where math-long comes into play.
 
 ## Usage
 The package exports an ECMAScript module with an UMD fallback.
